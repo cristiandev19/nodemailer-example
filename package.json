@@ -1,0 +1,34 @@
+{
+  "name": "nodemailer-example",
+  "version": "1.0.0",
+  "description": "\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiandev19/nodemailer-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiandev19/nodemailer-example/issues"
+  },
+  "homepage": "https://github.com/cristiandev19/nodemailer-example#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "email-templates": "^8.0.3",
+    "email-templates-v2": "^2.0.3",
+    "express": "^4.17.1",
+    "nodemailer": "^6.5.0",
+    "nodemailer-handlebars": "^1.0.1",
+    "nodemailer-pug-engine": "^2.0.0",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
